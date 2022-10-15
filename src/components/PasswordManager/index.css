@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.logo {
+  /* height: 50px; */
+  width: 250px;
+}
+.AddBox {
+  display: flex;
+}
+.Img {
+  height: 400px;
+}
+.icon {
+  width: 35px;
+}
+.line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search {
+  display: flex;
+}
